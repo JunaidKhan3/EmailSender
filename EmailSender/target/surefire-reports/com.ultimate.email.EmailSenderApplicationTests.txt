@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ultimate.email.EmailSenderApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.425 s - in com.ultimate.email.EmailSenderApplicationTests

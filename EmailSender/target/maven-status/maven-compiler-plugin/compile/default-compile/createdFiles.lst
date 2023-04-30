@@ -1,0 +1,17 @@
+com\ultimate\email\service\EmailService.class
+com\ultimate\email\controller\LoginController.class
+com\ultimate\email\exception\FileStorageException.class
+com\ultimate\email\service\EmailServiceImpl.class
+com\ultimate\email\controller\EmailController.class
+com\ultimate\email\model\EmailRequestDTO.class
+com\ultimate\email\model\LoginDTO.class
+com\ultimate\email\model\ResponseDTO.class
+com\ultimate\email\service\EmailServiceImpl$1.class
+com\ultimate\email\model\RequestDTO.class
+com\ultimate\email\EmailSenderApplication.class
+com\ultimate\email\exception\FileExceptionAdvice.class
+com\ultimate\email\exception\FileNotFoundException.class
+com\ultimate\email\model\EmailRequestDTO$EmailRequestDTOBuilder.class
+com\ultimate\email\model\ResultDTO.class
+com\ultimate\email\properties\FileUploadProperties.class
+com\ultimate\email\service\EmailServiceImpl$2.class

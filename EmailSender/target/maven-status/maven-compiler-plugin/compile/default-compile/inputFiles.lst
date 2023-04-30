@@ -1,0 +1,14 @@
+D:\project\EmailSender\src\main\java\com\ultimate\email\service\EmailServiceImpl.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\model\RequestDTO.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\properties\FileUploadProperties.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\model\EmailRequestDTO.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\model\ResponseDTO.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\exception\FileExceptionAdvice.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\exception\FileNotFoundException.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\service\EmailService.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\EmailSenderApplication.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\controller\EmailController.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\exception\FileStorageException.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\model\ResultDTO.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\model\LoginDTO.java
+D:\project\EmailSender\src\main\java\com\ultimate\email\controller\LoginController.java
